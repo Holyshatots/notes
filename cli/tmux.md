@@ -1,4 +1,6 @@
-# tmux
+# tmux notes
+
+Prefix remapped to Ctrl-a
 
 ### Create a new session
 
@@ -6,7 +8,7 @@ tmux new -s newsession
 
 ### Detach session
 
-Ctrl-b d
+prefix + d
 
 ### Attach session
 
@@ -14,11 +16,15 @@ tmux attach -t session
 
 ### Split horizontally
 
-Ctrl-b %
+prefix + %
 
 ### Split vertically
 
-Ctrl-b "
+prefix + "
+
+### Windows
+
+prefix + c
 
 ### Pane Navigation
 

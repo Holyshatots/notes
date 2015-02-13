@@ -1,0 +1,55 @@
+# Vim Cheat Sheet
+
+## Movement
+
+w - forwards to start of the word
+e - forward to the end of the word
+b - backwards to start of the word
+0 - start of the line
+$ - end of the line
+G - lasts line of the document
+5G - go to line 5
+
+## Insert mode
+
+i - insert
+a - append 
+o - append new line below current line
+O - append new line above current line
+Esc - exit insert mode
+
+## Editing
+
+u - undo
+Ctrl + r - redo
+r - replace a single character
+. - repeat last command
+
+## Visual Mode
+
+v - start visual mode, mark lines, then do a command
+V - start linewise visual mode
+o - move to other end of marked area
+Ctrl + v - start visual block mode
+O - move to other corner of block
+aw - mark a word
+ab - a block with ()
+aB - a block with {}
+ib - inner block with ()
+iB - inner block with {}
+Esc - exit visual mode
+
+## Visual commands
+
+> - shift text right
+< - shift text left
+y - yank (copy) marked text
+d - delete marked text
+~ - switch case
+
+## Cut and paste
+
+yy - yank ( copy ) a line
+2yy - yank (copy) 2 lines
+p - paste the clipboard after the cursor
+P - paste the clipboard before the cursor 

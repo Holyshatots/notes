@@ -1,6 +1,13 @@
 # tmux notes
 
-Prefix remapped to Ctrl-a
+## Quick notes
+
+tmux new -s sessionname
+prefix + d -detach
+prefix + "
+Prefix C-up, Prefix c-down, etc. - resize by 1 row/column
+
+NOTE: Prefix remapped to Ctrl-a
 
 ### Create a new session
 
@@ -28,9 +35,9 @@ prefix + c
 
 ### Pane Navigation
 
-up    : Ctrl-b uparrow
-down  : Ctrl-b downarrow
-left  : Ctrl-b leftarrow
-right : Ctrl-b rightarrow
+up    : prefix uparrow
+down  : prefix downarrow
+left  : prefix leftarrow
+right : prefix rightarrow
 
 

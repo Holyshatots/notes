@@ -1,0 +1,51 @@
+# jQuery
+
+## AJAX
+
+Load text into a <div> element
+```
+$("#div1").load("demo_test.txt");
+```
+## Event methods
+
+$(document).ready()
+
+click()
+
+```
+$("p").click(function(){
+	$(this).hide();
+});
+```
+
+dblclick()
+mouseenter()
+mouseleave()
+mousedown()
+mouseup()
+hover()
+```
+$("#p1").hover(function() {
+	alert("You entered p1!");
+},
+function(){
+	alert("Bye! You now leave p1");
+});
+```
+
+
+## Get content
+
+Gets the value from a form field
+```
+$("#btn1").click(function(){
+	alert("Value: " + $("#test").val());
+});
+```
+
+## Get attributes
+
+```
+$("button").click(function(){
+	alert($("#w3s").attr("href"));
+});

@@ -1,5 +1,7 @@
 # ColdFusion in "a week"
 
+[A good coldfusion cheatsheet](http://www.petefreitag.com/cheatsheets/coldfusion/cfscript/)
+
 ## Variables
 
 Setting a variable ThisIs to fun.

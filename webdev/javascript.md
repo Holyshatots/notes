@@ -2,6 +2,8 @@
 
 ## Cheat sheet
 
+Great cheat sheet [here](http://overapi.com/javascript/)
+
 ```
 // Declare string car
 var car = "Fiat";

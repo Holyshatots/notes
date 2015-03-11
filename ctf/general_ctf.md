@@ -9,4 +9,8 @@
 echo -n 
 ```
 
+- Search for 'key' 'flag' 'unlock'
+
+## Useful utilities
+cmp (unix command)
 

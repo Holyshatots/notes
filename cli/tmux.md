@@ -5,6 +5,7 @@
 tmux new -s sessionname
 prefix + d -detach
 prefix + "
+prefix + % 
 Prefix C-up, Prefix c-down, etc. - resize by 1 row/column
 
 NOTE: Prefix remapped to Ctrl-a

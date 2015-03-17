@@ -4,7 +4,7 @@
 
 ## Identifying the type of Crypto 
 
-[](http://practicalcryptography.com/cryptanalysis/text-characterisation/identifying-unknown-ciphers/)
+[Identifying the cipher](http://practicalcryptography.com/cryptanalysis/text-characterisation/identifying-unknown-ciphers/)
 
 [Stats](https://home.comcast.net/~acabion/refscore.html)
 

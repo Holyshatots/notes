@@ -26,8 +26,8 @@ Less strict version
 
 ## Photo resources
 
-(Stock snap)[https://stocksnap.io/view-photos/sort/date/desc]
+[Stock snap](https://stocksnap.io/view-photos/sort/date/desc)
 
-(Flickr Public Domain)[https://www.flickr.com/groups/publicdomain/]
+[Flickr Public Domain](https://www.flickr.com/groups/publicdomain/)
 
-(Flickr Commons)[https://www.flickr.com/commons]
+[Flickr Commons](https://www.flickr.com/commons)

@@ -31,3 +31,10 @@ Less strict version
 [Flickr Public Domain](https://www.flickr.com/groups/publicdomain/)
 
 [Flickr Commons](https://www.flickr.com/commons)
+
+
+## Design Inspiration
+
+[Dribble](https://dribbble.com/)
+
+[Designspiration](http://designspiration.net/)

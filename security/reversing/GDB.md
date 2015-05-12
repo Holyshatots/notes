@@ -1,0 +1,21 @@
+### Disassemble arbitrary location
+
+x/i 0xdeadbeef
+
+###  Useful gdb commands
+
+`start < shellcode`
+
+`disas`
+
+`break *0x00000000004005c1 `
+
+`cont`
+
+`p $rsp`
+
+`ni`
+
+`si`
+
+`x/10i0x400470`

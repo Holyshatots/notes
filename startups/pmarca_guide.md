@@ -82,4 +82,7 @@ The best way to develop contacts with VCs is to work at a venture-backed startup
 - Use Y combinator
 - Read VC blogs
 - Blog
-- Creat or contribute to a meaningful opensource project
+- Create or contribute to a meaningful opensource project
+
+## Part 4 : The only thing that matters 
+

@@ -14,3 +14,13 @@ Other terms from the [http://www.foundersworkbench.com/deal-dictionary/](Deal Di
 - Bylaws : Constituional docuemnt for the company (subordinate to the certificate of incorporation) that sets the rules that govern the company. 
 - Certificate of Incorporation : Primary constitutional document for the company.
 - Founder's preferred stock  (FF Preferred stock) : Special form of stock that is convertible into comon stock or preferred stock issued in a later financing round. 
+
+## Financing Strategies
+
+- Bootstrapping : The founder's use their own money to fund the company
+- Seed financing : Financing to investigate a market oppoprutnity or the development of an initial product. This can come from the founders, friends/family, or angel investors. Some financing structures are:
+	- Note financing : A interest-bearing promissory note that is repayable upon demand or some maturity date. 
+	- Convertible note financing : An interest-bearing promissory note that can be converted into equity
+	- Common Stock Financing : Investor receives an ownership stake in the company in the form of stock
+	- Series Seed Financing : Investor receives preffered stock in exchange for investment
+- Venture Capital Financing : A large investment in the company from on or more venture capital firms in exchange for preffered stock in the company. 

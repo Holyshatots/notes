@@ -1,5 +1,9 @@
 # HTML
 
+## Style Guide
+
+[Idiomatic HTML](https://github.com/necolas/idiomatic-html)
+
 ## Cheat sheet
 
 ```

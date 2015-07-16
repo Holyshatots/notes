@@ -12,3 +12,4 @@
 - Add all commit and push : Ctrl+Shift+A P
 - Commit : Ctrl+Shift+C
 - Git blame : Ctrl+b
+- Search for merge conflicts : Ctrl+m d

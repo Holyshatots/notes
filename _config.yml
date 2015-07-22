@@ -1,0 +1,16 @@
+# Site settings
+title: Notes
+email: themcaffee@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+    Notes of Mitch McAffee about Programming, Information Systems, and more
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  Holyshatots
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+    input: GFM
+    syntax_highlighter: rouge

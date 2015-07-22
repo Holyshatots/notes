@@ -5,19 +5,17 @@ date: 2015-03-12 21:03:28 -0600
 categories: cli
 ---
 
-https://www.youtube.com/watch?v=td1KEUhlSuk
+[Geohot did a live stream of a CTF.](https://www.youtube.com/watch?v=td1KEUhlSuk)
 
-# Tools
-qira
-ida
-strace
-gf
-ldd
+# Tools used
 
-
-# Notes
-Started on vortex12
+- qira
+- ida
+- strace
+- gf
+- ldd
 
 # gdb commands
-print system
-info sharedlibrary
+
+- `print system`
+- `info sharedlibrary`

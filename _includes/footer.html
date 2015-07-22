@@ -7,8 +7,12 @@
     <div class="footer-col-wrapper">
       <div class="footer-col  footer-col-1">
         <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li>{{ site.author }}</li>
+          {% if site.blog_url and site.blog_title %}
+          <li>
+              <a href="{{ site.blog_url }}">{{ site.blog_title }}</a>
+          </li>
+          {% endif %}
         </ul>
       </div>
 
@@ -28,7 +32,8 @@
           </li>
           {% endif %}
 
-          {% if site.twitter_username %}
+
+          {% if site.twitter_username and site.twitter_username != null %}
           <li>
             <a href="https://twitter.com/{{ site.twitter_username }}">
               <span class="icon  icon--twitter">

@@ -6,7 +6,7 @@ baseurl: "/notes/" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username:
 github_username:  Holyshatots
-blog_url: "http://holyshatots.com"
+blog_url: "http://blog.holyshatots.com/notes"
 blog_title: My Blog
 
 author: Mitch McAffee

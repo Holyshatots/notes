@@ -12,6 +12,7 @@ categories: CTF
 ## Useful tips
 
 - Doesn't output the trailing newline
+
 ```
 echo -n
 ```

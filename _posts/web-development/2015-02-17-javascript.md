@@ -93,16 +93,16 @@ $(document).ready(function(){
 
 Common methods:
 
-charAt()
-concat()
-indexOf()
-lastIndexOf()
-match()
-replace()
-search()
-slice()
-split()
-substr()
-substring()
-toLocaleLowerCase()
-trim()
+- `charAt()`
+- `concat()`
+- `indexOf()`
+- `lastIndexOf()`
+- `match()`
+- `replace()`
+- `search()`
+- `slice()`
+- `split()`
+- `substr()`
+- `substring()`
+- `toLocaleLowerCase()`
+- `trim()`

@@ -70,3 +70,47 @@ revolution is being led by the young and is challenging the existing
 industrial order.
 
 ## Towards a Mass Flourishing
+
+Four characteristics of how the future will emerge:
+
+1. Silicon Valley is the heart of this cultural change
+2. Small groups will have large impacts. Small being a group able to be
+  fed by two pizzas.
+3. The progress will be gradual and uneven but the trend will generally be
+  upwards.
+4. "Rapid declines in the costs of solutions to problems"
+
+- The hacker ethos will spread and the state of the economy will be challenged.
+- Work will be more fluid than the standard paycheck of today
+
+#### Summary:
+
+Small groups with the Silicon Valley culture will produce large impacts across
+the world to change the way we currently work.
+
+## Purists versus Pragmatists
+
+- Purists need everything to be the same
+- Pragmatists are only focused on functionality
+
+## Agility and Illegibility
+
+_Authoritarian high modernism_ : a purist architectural aesthetic driven by the authoritarian priorities.
+
+Authoritarianism in software development has created rigid manufacturing like rules
+that have killed the original tinkering hacker mentality.
+
+The agile philosophy in software creates "illegible, collective patterns of creativity,
+weaken illusions of control, and resist being yoked to driving utopian vision".
+
+There is a movement to free information in things like:
+- Open Geographic Information System (GIS)
+- open data in government
+- Monitoring technologies in agriculture
+
+Once a field has increased information availability it makes it hacker-friendly which
+leads to it being eaten by software.
+
+## Rough Consensus and Maximal Interestingness
+
+- "Software programming is labor that _creates_ capital"

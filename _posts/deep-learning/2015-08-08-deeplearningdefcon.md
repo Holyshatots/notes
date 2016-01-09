@@ -1,7 +1,14 @@
-# Game Theory
+---
+layout: note
+title: Defcon Deep Learning Talk
+date: 2015-08-15 20:14:44 -0600
+categories: Deep-Learning
+---
+
+Notes on a skytalk given during Defcon.
 
 - Zero sum game
-	- Minimize loss 
+	- Minimize loss
 - Richard bellman (?)
 - Overfitting: Training to the data too much
 - John Nash
@@ -12,14 +19,14 @@
 	2. Multiple and Simultaneous (not rounds of play)
 	3. No time constraints
 	4. Different goals
-	5. Legal (not government) moves change 
+	5. Legal (not government) moves change
 	6. Goals change
 	7. Update uncertainty (can''t deal with out of order punishments/rewards)
 - Non convex optimization
- 
+
 # Deep Learning
 
-Problems with deep learning and security: 
+Problems with deep learning and security:
 
 - Complicated data types
 - High dimensionality
@@ -43,6 +50,3 @@ Problems with deep learning and security:
 
 Py vs Py : A framework for learning security games
 - Looking for help
-
-
-

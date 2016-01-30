@@ -30,7 +30,7 @@ layout: default
                 {% if post.title != null %}
                     <li itemscope>
                         <h4>
-                            <a href="/notes{{ post.url }}">{{ post.title }}</a>
+                            <a href="{{ post.url }}">{{ post.title }}</a>
                         </h4>
                         <span class="post-meta">{{ post.date | date: "%B %-d, %Y"  }}</span>
                     </li>

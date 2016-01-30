@@ -1,7 +1,7 @@
 ---
 layout: note
 title: Artificial Intelligence : A Modern Approach Chap 1
-date: 2015-01-22 12:29:12 -0700
+date: 2016-01-22 12:29:12 -0700
 categories: ai
 ---
 

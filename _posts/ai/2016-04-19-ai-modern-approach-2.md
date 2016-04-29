@@ -1,6 +1,6 @@
 ---
 layout: note
-title: Artificial Intelligence : A Modern Approach Chap 2
+title: Artificial Intelligence A Modern Approach Chap 2
 date: 2016-04-19 12:29:12 -0700
 categories: ai
 ---

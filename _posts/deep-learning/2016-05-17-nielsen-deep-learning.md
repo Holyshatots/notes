@@ -6,6 +6,7 @@ categories: Deep-Learning
 ---
 
 [Source](http://neuralnetworksanddeeplearning.com/index.html)
+
 [Code Samples](https://github.com/mnielsen/neural-networks-and-deep-learning)
 
 ## [Chapter 1 : Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)
@@ -31,4 +32,29 @@ training inputs x.
 
 Notation:
 
-w<sup>l</sup><sub>jk</sub>
+w<sup>l</sup><sub>jk</sub> : Denotes the weight for the connection to the kth neuron in the (l - 1)th layer to the jth neuron in the lth layer.
+![Shows on a neural network where the weight is](http://neuralnetworksanddeeplearning.com/images/tikz16.png)
+
+b<sup>l</sup><sub>j</sub> : Denotes the bias of the jth neuron in the lth layer
+
+a<sup>l</sup><sub>j</sub> : Denotes the activation for the jth neuron in the lth layer.
+
+![Shows the bias and activation on a neural network](http://neuralnetworksanddeeplearning.com/images/tikz17.png)
+
+Activations of neurons are related by the following equation:
+
+a<sup>l</sup>=σ(w<sup>l</sup>a<sup>l</sup>−1+b<sup>l</sup>)
+
+Note: The sigmoid function (σ) is applied element by element
+
+- "The goal of backpropagation is to compute the partial derivatives ∂C/∂w and ∂C/∂b of the cost function C with respect to any weight w or bias b in the network"
+- Assumptions that need to be made about the cost function so that backpropagation can be applied.
+    - "The cost function can be written as an average C=1/n ∑<sub>x</sub>C<sub>x</sub> over cost functions C<sub>x</sub> for individual training examples, x."
+    - The cost can be written as a function of the outputs from the neural network
+- Hadamard / Schur product ( ⊙ ) : The elementwise product of two vectors
+
+#### Four fundamental equations behind backpropagation
+
+\begin{eqnarray}
+  \delta^L_j = \frac{\partial C}{\partial a^L_j} \sigma'(z^L_j).
+\tag{BP1}\end{eqnarray}

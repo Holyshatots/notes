@@ -1,4 +1,11 @@
-# (Neural Networks and Deep Learning)[http://neuralnetworksanddeeplearning.com/index.html] by Michael Nielsen
+---
+layout: note
+title: Neural Networks and Deep Learning
+date: 2015-05-17 20:14:44 -0600
+categories: Deep-Learning
+---
+
+(Source)[http://neuralnetworksanddeeplearning.com/index.html]
 
 ## (Chapter 1 : Using neural nets to recognize handwritten digits)[http://neuralnetworksanddeeplearning.com/chap1.html]
 

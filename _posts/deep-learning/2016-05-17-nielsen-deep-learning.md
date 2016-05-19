@@ -5,6 +5,10 @@ date: 2015-05-17 20:14:44 -0600
 categories: Deep-Learning
 ---
 
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 [Source](http://neuralnetworksanddeeplearning.com/index.html)
 
 [Code Samples](https://github.com/mnielsen/neural-networks-and-deep-learning)
@@ -55,6 +59,37 @@ Note: The sigmoid function (σ) is applied element by element
 
 #### Four fundamental equations behind backpropagation
 
+__1. An equation for the error in the output layer:__
+
 \begin{eqnarray}
   \delta^L_j = \frac{\partial C}{\partial a^L_j} \sigma'(z^L_j).
 \tag{BP1}\end{eqnarray}
+
+\partial C / \partial a^L_j : Measures how fast the cost is changing as a function of the j<sup>th</sup> output activation.
+
+\sigma'(z^L_j) : Measures how fast the activation function σ is changing at z<sup>L</sup><sub>j</sub>.
+
+
+
+__2. An equation for the error in terms of the error in the next layer:__
+
+\begin{eqnarray}
+  \delta^l = ((w^{l+1})^T \delta^{l+1}) \odot \sigma'(z^l),
+\tag{BP2}\end{eqnarray}
+
+
+(w^{l+1})^T : The transpose of the weight matrix w<sup>l+1</sup> for the (l+1)th layer
+
+
+__3. An equation for the rate of change of the cost with respect to any bias in the network:__
+
+\begin{eqnarray}  \frac{\partial C}{\partial b^l_j} =
+  \delta^l_j.
+\tag{BP3}\end{eqnarray}
+
+__4. An equation for the rate of change of the cost with respect to any weight in the network:__
+
+\begin{eqnarray}
+
+  \frac{\partial C}{\partial w^l_{jk}} = a^{l-1}_k \delta^l_j.
+\tag{BP4}\end{eqnarray}

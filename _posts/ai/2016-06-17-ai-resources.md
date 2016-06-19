@@ -1,3 +1,10 @@
+---
+layout: note
+title: AI Resources
+date: 2016-06-17 12:29:12 -0700
+categories: ai
+---
+
 # AI Resources
 
 A collection of resources that I want to get through.
